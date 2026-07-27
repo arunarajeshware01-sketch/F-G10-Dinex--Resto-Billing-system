@@ -8,7 +8,7 @@ include __DIR__ . '/includes/header.php';
 <?php if (!is_logged_in()): ?>
 
   <div class="home-hero">
-    <span class="eyebrow">Restaurant billing, simplified</span>
+    <span class="eyebrow">Restaurant billing , simplified</span>
     <h1>Bill orders in seconds, not spreadsheets.</h1>
     <p>DineX is a lightweight billing tool for small restaurants. Add your menu once, then bill orders with tax calculated automatically — and print the receipt.</p>
     <div class="home-actions">
